@@ -1,7 +1,7 @@
 from collections import deque
 
 #usa deque para criar uma fila
-fila= deque(['abacate', 'bola', 'cachorro'])
+fila = deque(['abacate', 'bola', 'cachorro'])
 
 #adicionanado um novo elemento
 fila.append("dado")
